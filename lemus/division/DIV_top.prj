@@ -1,0 +1,5 @@
+vhdl work "SHIFT_ADD.vhd"
+vhdl work "div_clk.vhd"
+vhdl work "Divisor-SRM-Behavioral.vhd"
+vhdl work "DISPLAYS.vhd"
+vhdl work "SMRtop-Behavioral.vhd"

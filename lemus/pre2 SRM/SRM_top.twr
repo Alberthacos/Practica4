@@ -1,0 +1,157 @@
+--------------------------------------------------------------------------------
+Release 14.7 Trace  (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\trce.exe -intstyle ise -v 3 -s 3
+-n 3 -fastpaths -xml SRM_top.twx SRM_top.ncd -o SRM_top.twr SRM_top.pcf -ucf
+restricciones.ucf
+
+Design file:              SRM_top.ncd
+Physical constraint file: SRM_top.pcf
+Device,package,speed:     xc6slx9,ftg256,C,-3 (PRODUCTION 1.23 2013-10-13)
+Report level:             verbose report
+
+Environment Variable      Effect 
+--------------------      ------ 
+NONE                      No environment variables were set
+--------------------------------------------------------------------------------
+
+INFO:Timing:2698 - No timing constraints found, doing default enumeration.
+INFO:Timing:3412 - To improve timing, see the Timing Closure User Guide (UG612).
+INFO:Timing:2752 - To get complete path coverage, use the unconstrained paths 
+   option. All paths that are not constrained will be reported in the 
+   unconstrained paths section(s) of the report.
+INFO:Timing:3339 - The clock-to-out numbers in this timing report are based on 
+   a 50 Ohm transmission line loading model.  For the details of this model, 
+   and for more information on accounting for different loading conditions, 
+   please see the device datasheet.
+
+
+
+Data Sheet report:
+-----------------
+All values displayed in nanoseconds (ns)
+
+Clock to Setup on destination clock CLK
+---------------+---------+---------+---------+---------+
+               | Src:Rise| Src:Fall| Src:Rise| Src:Fall|
+Source Clock   |Dest:Rise|Dest:Rise|Dest:Fall|Dest:Fall|
+---------------+---------+---------+---------+---------+
+CLK            |    3.956|         |         |         |
+---------------+---------+---------+---------+---------+
+
+Pad to Pad
+---------------+---------------+---------+
+Source Pad     |Destination Pad|  Delay  |
+---------------+---------------+---------+
+SW<0>          |LED<0>         |   12.285|
+SW<0>          |LED<1>         |   11.360|
+SW<0>          |LED<2>         |   11.896|
+SW<0>          |LED<3>         |   12.549|
+SW<0>          |LED<4>         |   13.136|
+SW<0>          |LED<5>         |   12.397|
+SW<0>          |LED<6>         |   13.352|
+SW<0>          |LED<7>         |   13.233|
+SW<1>          |LED<0>         |   11.877|
+SW<1>          |LED<1>         |   10.952|
+SW<1>          |LED<2>         |   11.488|
+SW<1>          |LED<3>         |   14.323|
+SW<1>          |LED<4>         |   12.728|
+SW<1>          |LED<5>         |   11.989|
+SW<1>          |LED<6>         |   12.944|
+SW<1>          |LED<7>         |   12.825|
+SW<2>          |LED<0>         |   11.912|
+SW<2>          |LED<1>         |   10.987|
+SW<2>          |LED<2>         |   11.523|
+SW<2>          |LED<3>         |   14.844|
+SW<2>          |LED<4>         |   12.763|
+SW<2>          |LED<5>         |   12.024|
+SW<2>          |LED<6>         |   12.979|
+SW<2>          |LED<7>         |   12.860|
+SW<3>          |LED<0>         |   11.891|
+SW<3>          |LED<1>         |   10.966|
+SW<3>          |LED<2>         |   11.502|
+SW<3>          |LED<3>         |   12.473|
+SW<3>          |LED<4>         |   12.742|
+SW<3>          |LED<5>         |   12.003|
+SW<3>          |LED<6>         |   12.958|
+SW<3>          |LED<7>         |   12.839|
+SW<4>          |LED<0>         |   11.765|
+SW<4>          |LED<1>         |   10.840|
+SW<4>          |LED<2>         |   11.376|
+SW<4>          |LED<3>         |   13.489|
+SW<4>          |LED<4>         |   12.616|
+SW<4>          |LED<5>         |   11.877|
+SW<4>          |LED<6>         |   12.832|
+SW<4>          |LED<7>         |   12.713|
+SW<5>          |LED<0>         |   12.043|
+SW<5>          |LED<1>         |   11.118|
+SW<5>          |LED<2>         |   11.654|
+SW<5>          |LED<3>         |   14.082|
+SW<5>          |LED<4>         |   12.894|
+SW<5>          |LED<5>         |   12.155|
+SW<5>          |LED<6>         |   13.110|
+SW<5>          |LED<7>         |   12.991|
+SW<6>          |LED<0>         |   11.817|
+SW<6>          |LED<1>         |   10.892|
+SW<6>          |LED<2>         |   11.428|
+SW<6>          |LED<3>         |   14.050|
+SW<6>          |LED<4>         |   12.668|
+SW<6>          |LED<5>         |   11.929|
+SW<6>          |LED<6>         |   12.884|
+SW<6>          |LED<7>         |   12.765|
+SW<7>          |LED<0>         |   12.169|
+SW<7>          |LED<1>         |   11.244|
+SW<7>          |LED<2>         |   11.780|
+SW<7>          |LED<3>         |   12.405|
+SW<7>          |LED<4>         |   13.020|
+SW<7>          |LED<5>         |   12.281|
+SW<7>          |LED<6>         |   13.236|
+SW<7>          |LED<7>         |   13.117|
+selOp<0>       |LED<0>         |   11.150|
+selOp<0>       |LED<1>         |   10.203|
+selOp<0>       |LED<2>         |   10.762|
+selOp<0>       |LED<3>         |   10.940|
+selOp<0>       |LED<4>         |   12.001|
+selOp<0>       |LED<5>         |   11.262|
+selOp<0>       |LED<6>         |   12.217|
+selOp<0>       |LED<7>         |   12.098|
+selOp<0>       |leds<0>        |    8.250|
+selOp<0>       |leds<1>        |    7.844|
+selOp<0>       |leds<2>        |    8.032|
+selOp<1>       |LED<0>         |   11.421|
+selOp<1>       |LED<1>         |   10.507|
+selOp<1>       |LED<2>         |   11.091|
+selOp<1>       |LED<3>         |   11.115|
+selOp<1>       |LED<4>         |   12.272|
+selOp<1>       |LED<5>         |   11.533|
+selOp<1>       |LED<6>         |   12.488|
+selOp<1>       |LED<7>         |   12.369|
+selOp<1>       |leds<0>        |    8.553|
+selOp<1>       |leds<1>        |    8.219|
+selOp<1>       |leds<2>        |    8.430|
+selOp<2>       |LED<0>         |    8.646|
+selOp<2>       |LED<1>         |    8.707|
+selOp<2>       |LED<2>         |    9.626|
+selOp<2>       |LED<3>         |    9.848|
+selOp<2>       |LED<4>         |   10.776|
+selOp<2>       |LED<5>         |   10.037|
+selOp<2>       |LED<6>         |   10.992|
+selOp<2>       |LED<7>         |   10.873|
+selOp<2>       |leds<0>        |   10.046|
+selOp<2>       |leds<1>        |    9.774|
+selOp<2>       |leds<2>        |    9.280|
+---------------+---------------+---------+
+
+
+Analysis completed Wed Mar 30 13:22:11 2022 
+--------------------------------------------------------------------------------
+
+Trace Settings:
+-------------------------
+Trace Settings 
+
+Peak Memory Usage: 4570 MB
+
+
+

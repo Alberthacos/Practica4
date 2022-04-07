@@ -1,0 +1,194 @@
+xst -intstyle ise -ifn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.xst" -ofn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.syr" 
+xst -intstyle ise -ifn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.xst" -ofn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.syr" 
+xst -intstyle ise -ifn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.xst" -ofn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc restricciones.ucf -p xc6slx9-ftg256-3 SRM_top.ngc SRM_top.ngd  
+map -intstyle ise -p xc6slx9-ftg256-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o SRM_top_map.ncd SRM_top.ngd SRM_top.pcf 
+par -w -intstyle ise -ol high -mt off SRM_top_map.ncd SRM_top.ncd SRM_top.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SRM_top.twx SRM_top.ncd -o SRM_top.twr SRM_top.pcf -ucf restricciones.ucf 
+bitgen -intstyle ise -f SRM_top.ut SRM_top.ncd 
+xst -intstyle ise -ifn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.xst" -ofn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc restricciones.ucf -p xc6slx9-ftg256-3 SRM_top.ngc SRM_top.ngd  
+map -intstyle ise -p xc6slx9-ftg256-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o SRM_top_map.ncd SRM_top.ngd SRM_top.pcf 
+par -w -intstyle ise -ol high -mt off SRM_top_map.ncd SRM_top.ncd SRM_top.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SRM_top.twx SRM_top.ncd -o SRM_top.twr SRM_top.pcf -ucf restricciones.ucf 
+bitgen -intstyle ise -f SRM_top.ut SRM_top.ncd 
+xst -intstyle ise -ifn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.xst" -ofn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc restricciones.ucf -p xc6slx9-ftg256-3 SRM_top.ngc SRM_top.ngd  
+map -intstyle ise -p xc6slx9-ftg256-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o SRM_top_map.ncd SRM_top.ngd SRM_top.pcf 
+par -w -intstyle ise -ol high -mt off SRM_top_map.ncd SRM_top.ncd SRM_top.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SRM_top.twx SRM_top.ncd -o SRM_top.twr SRM_top.pcf -ucf restricciones.ucf 
+bitgen -intstyle ise -f SRM_top.ut SRM_top.ncd 
+xst -intstyle ise -ifn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.xst" -ofn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.syr" 
+xst -intstyle ise -ifn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.xst" -ofn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.syr" 
+xst -intstyle ise -ifn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.xst" -ofn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.syr" 
+xst -intstyle ise -ifn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.xst" -ofn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.syr" 
+xst -intstyle ise -ifn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.xst" -ofn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.syr" 
+xst -intstyle ise -ifn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.xst" -ofn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.syr" 
+xst -intstyle ise -ifn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.xst" -ofn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.syr" 
+xst -intstyle ise -ifn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.xst" -ofn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc restricciones.ucf -p xc6slx9-ftg256-3 SRM_top.ngc SRM_top.ngd  
+map -intstyle ise -p xc6slx9-ftg256-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o SRM_top_map.ncd SRM_top.ngd SRM_top.pcf 
+par -w -intstyle ise -ol high -mt off SRM_top_map.ncd SRM_top.ncd SRM_top.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SRM_top.twx SRM_top.ncd -o SRM_top.twr SRM_top.pcf -ucf restricciones.ucf 
+bitgen -intstyle ise -f SRM_top.ut SRM_top.ncd 
+xst -intstyle ise -ifn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.xst" -ofn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.syr" 
+xst -intstyle ise -ifn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.xst" -ofn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc restricciones.ucf -p xc6slx9-ftg256-3 SRM_top.ngc SRM_top.ngd  
+map -intstyle ise -p xc6slx9-ftg256-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o SRM_top_map.ncd SRM_top.ngd SRM_top.pcf 
+par -w -intstyle ise -ol high -mt off SRM_top_map.ncd SRM_top.ncd SRM_top.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SRM_top.twx SRM_top.ncd -o SRM_top.twr SRM_top.pcf -ucf restricciones.ucf 
+bitgen -intstyle ise -f SRM_top.ut SRM_top.ncd 
+xst -intstyle ise -ifn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.xst" -ofn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.syr" 
+xst -intstyle ise -ifn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.xst" -ofn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.syr" 
+xst -intstyle ise -ifn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.xst" -ofn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.syr" 
+xst -intstyle ise -ifn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.xst" -ofn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc restricciones.ucf -p xc6slx9-ftg256-3 SRM_top.ngc SRM_top.ngd  
+map -intstyle ise -p xc6slx9-ftg256-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o SRM_top_map.ncd SRM_top.ngd SRM_top.pcf 
+par -w -intstyle ise -ol high -mt off SRM_top_map.ncd SRM_top.ncd SRM_top.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SRM_top.twx SRM_top.ncd -o SRM_top.twr SRM_top.pcf -ucf restricciones.ucf 
+bitgen -intstyle ise -f SRM_top.ut SRM_top.ncd 
+xst -intstyle ise -ifn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.xst" -ofn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.syr" 
+xst -intstyle ise -ifn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.xst" -ofn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc restricciones.ucf -p xc6slx9-ftg256-3 SRM_top.ngc SRM_top.ngd  
+map -intstyle ise -p xc6slx9-ftg256-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o SRM_top_map.ncd SRM_top.ngd SRM_top.pcf 
+par -w -intstyle ise -ol high -mt off SRM_top_map.ncd SRM_top.ncd SRM_top.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SRM_top.twx SRM_top.ncd -o SRM_top.twr SRM_top.pcf -ucf restricciones.ucf 
+bitgen -intstyle ise -f SRM_top.ut SRM_top.ncd 
+xst -intstyle ise -ifn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.xst" -ofn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc restricciones.ucf -p xc6slx9-ftg256-3 SRM_top.ngc SRM_top.ngd  
+map -intstyle ise -p xc6slx9-ftg256-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o SRM_top_map.ncd SRM_top.ngd SRM_top.pcf 
+par -w -intstyle ise -ol high -mt off SRM_top_map.ncd SRM_top.ncd SRM_top.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SRM_top.twx SRM_top.ncd -o SRM_top.twr SRM_top.pcf -ucf restricciones.ucf 
+bitgen -intstyle ise -f SRM_top.ut SRM_top.ncd 
+xst -intstyle ise -ifn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.xst" -ofn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc restricciones.ucf -p xc6slx9-ftg256-3 SRM_top.ngc SRM_top.ngd  
+map -intstyle ise -p xc6slx9-ftg256-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o SRM_top_map.ncd SRM_top.ngd SRM_top.pcf 
+par -w -intstyle ise -ol high -mt off SRM_top_map.ncd SRM_top.ncd SRM_top.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SRM_top.twx SRM_top.ncd -o SRM_top.twr SRM_top.pcf -ucf restricciones.ucf 
+bitgen -intstyle ise -f SRM_top.ut SRM_top.ncd 
+xst -intstyle ise -ifn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.xst" -ofn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc restricciones.ucf -p xc6slx9-ftg256-3 SRM_top.ngc SRM_top.ngd  
+map -intstyle ise -p xc6slx9-ftg256-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o SRM_top_map.ncd SRM_top.ngd SRM_top.pcf 
+par -w -intstyle ise -ol high -mt off SRM_top_map.ncd SRM_top.ncd SRM_top.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SRM_top.twx SRM_top.ncd -o SRM_top.twr SRM_top.pcf -ucf restricciones.ucf 
+bitgen -intstyle ise -f SRM_top.ut SRM_top.ncd 
+xst -intstyle ise -ifn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.xst" -ofn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc restricciones.ucf -p xc6slx9-ftg256-3 SRM_top.ngc SRM_top.ngd  
+map -intstyle ise -p xc6slx9-ftg256-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o SRM_top_map.ncd SRM_top.ngd SRM_top.pcf 
+par -w -intstyle ise -ol high -mt off SRM_top_map.ncd SRM_top.ncd SRM_top.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SRM_top.twx SRM_top.ncd -o SRM_top.twr SRM_top.pcf -ucf restricciones.ucf 
+bitgen -intstyle ise -f SRM_top.ut SRM_top.ncd 
+xst -intstyle ise -ifn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.xst" -ofn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc restricciones.ucf -p xc6slx9-ftg256-3 SRM_top.ngc SRM_top.ngd  
+map -intstyle ise -p xc6slx9-ftg256-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o SRM_top_map.ncd SRM_top.ngd SRM_top.pcf 
+par -w -intstyle ise -ol high -mt off SRM_top_map.ncd SRM_top.ncd SRM_top.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SRM_top.twx SRM_top.ncd -o SRM_top.twr SRM_top.pcf -ucf restricciones.ucf 
+bitgen -intstyle ise -f SRM_top.ut SRM_top.ncd 
+xst -intstyle ise -ifn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.xst" -ofn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc restricciones.ucf -p xc6slx9-ftg256-3 SRM_top.ngc SRM_top.ngd  
+map -intstyle ise -p xc6slx9-ftg256-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o SRM_top_map.ncd SRM_top.ngd SRM_top.pcf 
+par -w -intstyle ise -ol high -mt off SRM_top_map.ncd SRM_top.ncd SRM_top.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SRM_top.twx SRM_top.ncd -o SRM_top.twr SRM_top.pcf -ucf restricciones.ucf 
+bitgen -intstyle ise -f SRM_top.ut SRM_top.ncd 
+xst -intstyle ise -ifn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.xst" -ofn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc restricciones.ucf -p xc6slx9-ftg256-3 SRM_top.ngc SRM_top.ngd  
+map -intstyle ise -p xc6slx9-ftg256-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o SRM_top_map.ncd SRM_top.ngd SRM_top.pcf 
+par -w -intstyle ise -ol high -mt off SRM_top_map.ncd SRM_top.ncd SRM_top.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SRM_top.twx SRM_top.ncd -o SRM_top.twr SRM_top.pcf -ucf restricciones.ucf 
+bitgen -intstyle ise -f SRM_top.ut SRM_top.ncd 
+xst -intstyle ise -ifn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.xst" -ofn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc restricciones.ucf -p xc6slx9-ftg256-3 SRM_top.ngc SRM_top.ngd  
+map -intstyle ise -p xc6slx9-ftg256-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o SRM_top_map.ncd SRM_top.ngd SRM_top.pcf 
+par -w -intstyle ise -ol high -mt off SRM_top_map.ncd SRM_top.ncd SRM_top.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SRM_top.twx SRM_top.ncd -o SRM_top.twr SRM_top.pcf -ucf restricciones.ucf 
+bitgen -intstyle ise -f SRM_top.ut SRM_top.ncd 
+xst -intstyle ise -ifn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.xst" -ofn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc restricciones.ucf -p xc6slx9-ftg256-3 SRM_top.ngc SRM_top.ngd  
+map -intstyle ise -p xc6slx9-ftg256-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o SRM_top_map.ncd SRM_top.ngd SRM_top.pcf 
+par -w -intstyle ise -ol high -mt off SRM_top_map.ncd SRM_top.ncd SRM_top.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SRM_top.twx SRM_top.ncd -o SRM_top.twr SRM_top.pcf -ucf restricciones.ucf 
+bitgen -intstyle ise -f SRM_top.ut SRM_top.ncd 
+xst -intstyle ise -ifn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.xst" -ofn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc restricciones.ucf -p xc6slx9-ftg256-3 SRM_top.ngc SRM_top.ngd  
+map -intstyle ise -p xc6slx9-ftg256-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o SRM_top_map.ncd SRM_top.ngd SRM_top.pcf 
+par -w -intstyle ise -ol high -mt off SRM_top_map.ncd SRM_top.ncd SRM_top.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SRM_top.twx SRM_top.ncd -o SRM_top.twr SRM_top.pcf -ucf restricciones.ucf 
+bitgen -intstyle ise -f SRM_top.ut SRM_top.ncd 
+xst -intstyle ise -ifn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.xst" -ofn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc restricciones.ucf -p xc6slx9-ftg256-3 SRM_top.ngc SRM_top.ngd  
+map -intstyle ise -p xc6slx9-ftg256-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o SRM_top_map.ncd SRM_top.ngd SRM_top.pcf 
+par -w -intstyle ise -ol high -mt off SRM_top_map.ncd SRM_top.ncd SRM_top.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SRM_top.twx SRM_top.ncd -o SRM_top.twr SRM_top.pcf -ucf restricciones.ucf 
+bitgen -intstyle ise -f SRM_top.ut SRM_top.ncd 
+xst -intstyle ise -ifn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.xst" -ofn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc restricciones.ucf -p xc6slx9-ftg256-3 SRM_top.ngc SRM_top.ngd  
+map -intstyle ise -p xc6slx9-ftg256-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o SRM_top_map.ncd SRM_top.ngd SRM_top.pcf 
+par -w -intstyle ise -ol high -mt off SRM_top_map.ncd SRM_top.ncd SRM_top.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SRM_top.twx SRM_top.ncd -o SRM_top.twr SRM_top.pcf -ucf restricciones.ucf 
+bitgen -intstyle ise -f SRM_top.ut SRM_top.ncd 
+xst -intstyle ise -ifn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.xst" -ofn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc restricciones.ucf -p xc6slx9-ftg256-3 SRM_top.ngc SRM_top.ngd  
+map -intstyle ise -p xc6slx9-ftg256-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o SRM_top_map.ncd SRM_top.ngd SRM_top.pcf 
+par -w -intstyle ise -ol high -mt off SRM_top_map.ncd SRM_top.ncd SRM_top.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SRM_top.twx SRM_top.ncd -o SRM_top.twr SRM_top.pcf -ucf restricciones.ucf 
+bitgen -intstyle ise -f SRM_top.ut SRM_top.ncd 
+xst -intstyle ise -ifn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.xst" -ofn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc restricciones.ucf -p xc6slx9-ftg256-3 SRM_top.ngc SRM_top.ngd  
+map -intstyle ise -p xc6slx9-ftg256-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o SRM_top_map.ncd SRM_top.ngd SRM_top.pcf 
+par -w -intstyle ise -ol high -mt off SRM_top_map.ncd SRM_top.ncd SRM_top.pcf 
+bitgen -intstyle ise -f SRM_top.ut SRM_top.ncd 
+xst -intstyle ise -ifn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.xst" -ofn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc restricciones.ucf -p xc6slx9-ftg256-3 SRM_top.ngc SRM_top.ngd  
+map -intstyle ise -p xc6slx9-ftg256-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o SRM_top_map.ncd SRM_top.ngd SRM_top.pcf 
+par -w -intstyle ise -ol high -mt off SRM_top_map.ncd SRM_top.ncd SRM_top.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SRM_top.twx SRM_top.ncd -o SRM_top.twr SRM_top.pcf -ucf restricciones.ucf 
+bitgen -intstyle ise -f SRM_top.ut SRM_top.ncd 
+xst -intstyle ise -ifn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.xst" -ofn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc restricciones.ucf -p xc6slx9-ftg256-3 SRM_top.ngc SRM_top.ngd  
+map -intstyle ise -p xc6slx9-ftg256-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o SRM_top_map.ncd SRM_top.ngd SRM_top.pcf 
+par -w -intstyle ise -ol high -mt off SRM_top_map.ncd SRM_top.ncd SRM_top.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SRM_top.twx SRM_top.ncd -o SRM_top.twr SRM_top.pcf -ucf restricciones.ucf 
+bitgen -intstyle ise -f SRM_top.ut SRM_top.ncd 
+xst -intstyle ise -ifn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.xst" -ofn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc restricciones.ucf -p xc6slx9-ftg256-3 SRM_top.ngc SRM_top.ngd  
+map -intstyle ise -p xc6slx9-ftg256-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o SRM_top_map.ncd SRM_top.ngd SRM_top.pcf 
+par -w -intstyle ise -ol high -mt off SRM_top_map.ncd SRM_top.ncd SRM_top.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SRM_top.twx SRM_top.ncd -o SRM_top.twr SRM_top.pcf -ucf restricciones.ucf 
+bitgen -intstyle ise -f SRM_top.ut SRM_top.ncd 
+xst -intstyle ise -ifn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.xst" -ofn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc restricciones.ucf -p xc6slx9-ftg256-3 SRM_top.ngc SRM_top.ngd  
+map -intstyle ise -p xc6slx9-ftg256-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o SRM_top_map.ncd SRM_top.ngd SRM_top.pcf 
+par -w -intstyle ise -ol high -mt off SRM_top_map.ncd SRM_top.ncd SRM_top.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SRM_top.twx SRM_top.ncd -o SRM_top.twr SRM_top.pcf -ucf restricciones.ucf 
+bitgen -intstyle ise -f SRM_top.ut SRM_top.ncd 
+xst -intstyle ise -ifn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.xst" -ofn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc restricciones.ucf -p xc6slx9-ftg256-3 SRM_top.ngc SRM_top.ngd  
+map -intstyle ise -p xc6slx9-ftg256-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o SRM_top_map.ncd SRM_top.ngd SRM_top.pcf 
+par -w -intstyle ise -ol high -mt off SRM_top_map.ncd SRM_top.ncd SRM_top.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SRM_top.twx SRM_top.ncd -o SRM_top.twr SRM_top.pcf -ucf restricciones.ucf 
+bitgen -intstyle ise -f SRM_top.ut SRM_top.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc restricciones.ucf -p xc6slx9-ftg256-3 SRM_top.ngc SRM_top.ngd  
+map -intstyle ise -p xc6slx9-ftg256-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o SRM_top_map.ncd SRM_top.ngd SRM_top.pcf 
+par -w -intstyle ise -ol high -mt off SRM_top_map.ncd SRM_top.ncd SRM_top.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SRM_top.twx SRM_top.ncd -o SRM_top.twr SRM_top.pcf -ucf restricciones.ucf 
+bitgen -intstyle ise -f SRM_top.ut SRM_top.ncd 
+xst -intstyle ise -ifn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.xst" -ofn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.syr" 
+xst -intstyle ise -ifn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.xst" -ofn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc restricciones.ucf -p xc6slx9-ftg256-3 SRM_top.ngc SRM_top.ngd  
+map -intstyle ise -p xc6slx9-ftg256-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o SRM_top_map.ncd SRM_top.ngd SRM_top.pcf 
+par -w -intstyle ise -ol high -mt off SRM_top_map.ncd SRM_top.ncd SRM_top.pcf 
+par -w -intstyle ise -ol high -mt off SRM_top_map.ncd SRM_top.ncd SRM_top.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SRM_top.twx SRM_top.ncd -o SRM_top.twr SRM_top.pcf -ucf restricciones.ucf 
+bitgen -intstyle ise -f SRM_top.ut SRM_top.ncd 
+xst -intstyle ise -ifn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.xst" -ofn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc restricciones.ucf -p xc6slx9-ftg256-3 SRM_top.ngc SRM_top.ngd  
+map -intstyle ise -p xc6slx9-ftg256-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o SRM_top_map.ncd SRM_top.ngd SRM_top.pcf 
+par -w -intstyle ise -ol high -mt off SRM_top_map.ncd SRM_top.ncd SRM_top.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SRM_top.twx SRM_top.ncd -o SRM_top.twr SRM_top.pcf -ucf restricciones.ucf 
+bitgen -intstyle ise -f SRM_top.ut SRM_top.ncd 
+xst -intstyle ise -ifn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.xst" -ofn "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre2/SRM_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc restricciones.ucf -p xc6slx9-ftg256-3 SRM_top.ngc SRM_top.ngd  
+map -intstyle ise -p xc6slx9-ftg256-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o SRM_top_map.ncd SRM_top.ngd SRM_top.pcf 
+par -w -intstyle ise -ol high -mt off SRM_top_map.ncd SRM_top.ncd SRM_top.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SRM_top.twx SRM_top.ncd -o SRM_top.twr SRM_top.pcf -ucf restricciones.ucf 
+bitgen -intstyle ise -f SRM_top.ut SRM_top.ncd 

@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Albert\Documents\CircuitosLogicos\practica_4\lemus\Ej5\logico_top.ncd
+OUTFILE=C:\Users\Albert\Documents\CircuitosLogicos\practica_4\lemus\Ej5\logico_top.bit
+FAMILY=Spartan6
+PART=xc6slx9-3ftg256
+WORKINGDIR=C:\Users\Albert\Documents\CircuitosLogicos\practica_4\lemus\Ej5
+LICENSE=WebPack
+USER_INFO=212421826_0_0_754

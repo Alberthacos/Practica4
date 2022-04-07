@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Albert\Documents\CircuitosLogicos\practica_4\Practica_4\SRM_top.ncd
+OUTFILE=C:\Users\Albert\Documents\CircuitosLogicos\practica_4\Practica_4\SRM_top.bit
+FAMILY=Spartan6
+PART=xc6slx9-3ftg256
+WORKINGDIR=C:\Users\Albert\Documents\CircuitosLogicos\practica_4\Practica_4
+LICENSE=WebPack
+USER_INFO=212421826_0_0_754

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/pre2/SRM_top_isim_beh.exe" -prj "C:/Users/Albert/Documents/CircuitosLogicos/practica_4/pre2/SRM_top_beh.prj" "work.SRM_top" 

@@ -1,0 +1,5 @@
+vhdl work "smr.vhd"
+vhdl work "shift_add3.vhd"
+vhdl work "divisor.vhd"
+vhdl work "disp.vhd"
+vhdl work "SRM_TOP_LEVEL.vhd"

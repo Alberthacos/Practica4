@@ -1,0 +1,188 @@
+--------------------------------------------------------------------------------
+Release 14.7 Trace  (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\trce.exe -intstyle ise -v 3 -s 3
+-n 3 -fastpaths -xml DIV_top.twx DIV_top.ncd -o DIV_top.twr DIV_top.pcf -ucf
+restricciones.ucf
+
+Design file:              DIV_top.ncd
+Physical constraint file: DIV_top.pcf
+Device,package,speed:     xc6slx9,ftg256,C,-3 (PRODUCTION 1.23 2013-10-13)
+Report level:             verbose report
+
+Environment Variable      Effect 
+--------------------      ------ 
+NONE                      No environment variables were set
+--------------------------------------------------------------------------------
+
+INFO:Timing:2698 - No timing constraints found, doing default enumeration.
+INFO:Timing:3412 - To improve timing, see the Timing Closure User Guide (UG612).
+INFO:Timing:2752 - To get complete path coverage, use the unconstrained paths 
+   option. All paths that are not constrained will be reported in the 
+   unconstrained paths section(s) of the report.
+INFO:Timing:3339 - The clock-to-out numbers in this timing report are based on 
+   a 50 Ohm transmission line loading model.  For the details of this model, 
+   and for more information on accounting for different loading conditions, 
+   please see the device datasheet.
+
+
+
+Data Sheet report:
+-----------------
+All values displayed in nanoseconds (ns)
+
+Clock to Setup on destination clock clk
+---------------+---------+---------+---------+---------+
+               | Src:Rise| Src:Fall| Src:Rise| Src:Fall|
+Source Clock   |Dest:Rise|Dest:Rise|Dest:Fall|Dest:Fall|
+---------------+---------+---------+---------+---------+
+clk            |    3.007|         |         |         |
+---------------+---------+---------+---------+---------+
+
+Pad to Pad
+---------------+---------------+---------+
+Source Pad     |Destination Pad|  Delay  |
+---------------+---------------+---------+
+sw<0>          |display<1>     |   10.026|
+sw<0>          |display<2>     |   10.245|
+sw<0>          |display<3>     |   10.463|
+sw<0>          |display<4>     |   10.342|
+sw<0>          |display<5>     |   10.305|
+sw<0>          |display<6>     |   10.169|
+sw<0>          |display<7>     |   10.414|
+sw<0>          |error          |    9.429|
+sw<0>          |led<0>         |   21.105|
+sw<0>          |led<1>         |   18.977|
+sw<0>          |led<2>         |   17.394|
+sw<0>          |led<3>         |   14.325|
+sw<0>          |led<4>         |   12.009|
+sw<0>          |led<5>         |   11.610|
+sw<0>          |led<6>         |    9.514|
+sw<0>          |led<7>         |    9.607|
+sw<1>          |display<1>     |    9.129|
+sw<1>          |display<2>     |    9.348|
+sw<1>          |display<3>     |    9.566|
+sw<1>          |display<4>     |    9.445|
+sw<1>          |display<5>     |    9.408|
+sw<1>          |display<6>     |    9.272|
+sw<1>          |display<7>     |    9.517|
+sw<1>          |error          |    8.532|
+sw<1>          |led<0>         |   21.165|
+sw<1>          |led<1>         |   19.037|
+sw<1>          |led<2>         |   17.454|
+sw<1>          |led<3>         |   14.385|
+sw<1>          |led<4>         |   12.069|
+sw<1>          |led<5>         |   11.670|
+sw<1>          |led<6>         |    7.815|
+sw<1>          |led<7>         |    8.710|
+sw<2>          |display<1>     |   10.342|
+sw<2>          |display<2>     |   10.561|
+sw<2>          |display<3>     |   10.779|
+sw<2>          |display<4>     |   10.658|
+sw<2>          |display<5>     |   10.621|
+sw<2>          |display<6>     |   10.485|
+sw<2>          |display<7>     |   10.730|
+sw<2>          |error          |    9.745|
+sw<2>          |led<0>         |   20.516|
+sw<2>          |led<1>         |   18.388|
+sw<2>          |led<2>         |   16.805|
+sw<2>          |led<3>         |   13.736|
+sw<2>          |led<4>         |   11.420|
+sw<2>          |led<5>         |   11.021|
+sw<2>          |led<6>         |    8.421|
+sw<2>          |led<7>         |    9.923|
+sw<3>          |display<1>     |    8.723|
+sw<3>          |display<2>     |    8.942|
+sw<3>          |display<3>     |    9.160|
+sw<3>          |display<4>     |    9.039|
+sw<3>          |display<5>     |    9.002|
+sw<3>          |display<6>     |    8.866|
+sw<3>          |display<7>     |    9.111|
+sw<3>          |error          |    8.126|
+sw<3>          |led<0>         |   21.393|
+sw<3>          |led<1>         |   19.265|
+sw<3>          |led<2>         |   17.682|
+sw<3>          |led<3>         |   14.613|
+sw<3>          |led<4>         |   12.297|
+sw<3>          |led<5>         |   11.898|
+sw<3>          |led<6>         |    9.142|
+sw<3>          |led<7>         |    9.552|
+sw<4>          |display<1>     |    8.989|
+sw<4>          |display<2>     |    9.208|
+sw<4>          |display<3>     |    9.426|
+sw<4>          |display<4>     |    9.305|
+sw<4>          |display<5>     |    9.268|
+sw<4>          |display<6>     |    9.132|
+sw<4>          |display<7>     |    9.377|
+sw<4>          |error          |    8.392|
+sw<4>          |led<0>         |   21.683|
+sw<4>          |led<1>         |   19.555|
+sw<4>          |led<2>         |   17.972|
+sw<4>          |led<3>         |   14.903|
+sw<4>          |led<4>         |   12.587|
+sw<4>          |led<5>         |   12.188|
+sw<4>          |led<6>         |    9.201|
+sw<4>          |led<7>         |   10.288|
+sw<5>          |display<1>     |    9.151|
+sw<5>          |display<2>     |    9.370|
+sw<5>          |display<3>     |    9.588|
+sw<5>          |display<4>     |    9.467|
+sw<5>          |display<5>     |    9.430|
+sw<5>          |display<6>     |    9.294|
+sw<5>          |display<7>     |    9.539|
+sw<5>          |error          |    8.554|
+sw<5>          |led<0>         |   21.285|
+sw<5>          |led<1>         |   19.157|
+sw<5>          |led<2>         |   17.574|
+sw<5>          |led<3>         |   14.505|
+sw<5>          |led<4>         |   12.189|
+sw<5>          |led<5>         |   11.790|
+sw<5>          |led<6>         |    8.803|
+sw<5>          |led<7>         |    9.890|
+sw<6>          |display<1>     |    9.028|
+sw<6>          |display<2>     |    9.247|
+sw<6>          |display<3>     |    9.465|
+sw<6>          |display<4>     |    9.344|
+sw<6>          |display<5>     |    9.307|
+sw<6>          |display<6>     |    9.171|
+sw<6>          |display<7>     |    9.416|
+sw<6>          |error          |    8.431|
+sw<6>          |led<0>         |   21.672|
+sw<6>          |led<1>         |   19.544|
+sw<6>          |led<2>         |   17.961|
+sw<6>          |led<3>         |   14.892|
+sw<6>          |led<4>         |   12.576|
+sw<6>          |led<5>         |   12.177|
+sw<6>          |led<6>         |    9.190|
+sw<6>          |led<7>         |   10.277|
+sw<7>          |display<1>     |    8.531|
+sw<7>          |display<2>     |    8.750|
+sw<7>          |display<3>     |    8.968|
+sw<7>          |display<4>     |    8.847|
+sw<7>          |display<5>     |    8.810|
+sw<7>          |display<6>     |    8.674|
+sw<7>          |display<7>     |    8.919|
+sw<7>          |error          |    7.934|
+sw<7>          |led<0>         |   21.816|
+sw<7>          |led<1>         |   19.688|
+sw<7>          |led<2>         |   18.105|
+sw<7>          |led<3>         |   15.036|
+sw<7>          |led<4>         |   12.720|
+sw<7>          |led<5>         |   12.321|
+sw<7>          |led<6>         |    9.334|
+sw<7>          |led<7>         |   10.421|
+---------------+---------------+---------+
+
+
+Analysis completed Mon Apr 04 23:04:21 2022 
+--------------------------------------------------------------------------------
+
+Trace Settings:
+-------------------------
+Trace Settings 
+
+Peak Memory Usage: 4570 MB
+
+
+

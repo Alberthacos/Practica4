@@ -1,0 +1,4 @@
+vhdl work "logico.vhd"
+vhdl work "div.vhd"
+vhdl work "display.vhd"
+vhdl work "top.vhd"

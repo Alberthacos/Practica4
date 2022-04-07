@@ -1,0 +1,74 @@
+// Archivo de restricciones de usuario (UCF) //
+#######################################
+##Asignación de terminales de la NEXYS 2 NEXYS 2 NEXYS 2
+//DISPLAYS
+NET "DISPLAY(7)" LOC = "L18"; // a
+NET "DISPLAY(6)" LOC = "F18"; // b
+NET "DISPLAY(5)" LOC = "D17"; // c
+NET "DISPLAY(4)" LOC = "D16"; // d
+NET "DISPLAY(3)" LOC = "G14"; // e
+NET "DISPLAY(2)" LOC = "J17"; // f
+NET "DISPLAY(1)" LOC = "H14"; // g
+NET "DISPLAY(0)" LOC = "C17"; // P
+//ANODOS
+NET "AN(3)" LOC = "F17"; // AN0
+NET "AN(2)" LOC = "H17"; // AN1
+NET "AN(1)" LOC = "C18"; // AN2
+NET "AN(0)" LOC = "F15"; // AN3
+//selOp,RESET--PUSH BUTTON
+NET "selOp(0)" LOC = "B18"; // btn0 suma
+NET "selOp(1)" LOC = "D18"; // btn1 resta
+NET "selOp(2)" LOC = "E18"; // btn2 mult
+//NET "RESET" LOC = "H13"; // btn3 RST
+//CLK reloj 50MHz
+NET "CLK" LOC = "B8";
+// entrada A y B a SW
+
+NET "SW(0)" LOC = "G18"; // SW0 B(0)
+NET "SW(1)" LOC = "H18"; // SW1 B(1)
+NET "SW(2)" LOC = "K18"; // SW2 B(2)
+NET "SW(3)" LOC = "K17"; // SW3 B(3)
+NET "SW(4)" LOC = "L14"; // SW4 A(0)
+NET "SW(5)" LOC = "L13"; // SW5 A(1)
+NET "SW(6)" LOC = "N17"; // SW6 A(2)
+NET "SW(7)" LOC = "R17"; // SW7 A(3)
+// salida a led testigos del resultado C
+NET "led(0)" LOC = "J14"; // LD0
+NET "led(1)" LOC = "J15"; // LD1
+NET "led(2)" LOC = "K15"; // LD2
+NET "led(3)" LOC = "K14"; // LD3
+NET "led(4)" LOC = "E17"; // LD4
+NET "led(5)" LOC = "P15"; // LD5
+NET "led(6)" LOC = "F4" ; // LD6
+NET "led(7)" LOC = "R4" ; // LD7
+
+########################################
+##Asignación de terminales de la NEXYS 3
+#//DISPLAYS
+#NET "DISPLAY(7)" LOC = "T17"; // a
+#NET "DISPLAY(6)" LOC = "T18"; // b
+#NET "DISPLAY(5)" LOC = "U17"; // c
+#NET "DISPLAY(4)" LOC = "U18"; // d
+#NET "DISPLAY(3)" LOC = "M14"; // e
+#NET "DISPLAY(2)" LOC = "N14"; // f
+#NET "DISPLAY(1)" LOC = "L14"; // g
+#NET "DISPLAY(0)" LOC = "M13"; // P
+#
+#//ANODOS
+#NET "AN(3)" LOC = "N16"; // AN0
+#NET "AN(2)" LOC = "N15"; // AN1
+#NET "AN(1)" LOC = "P18"; // AN2
+#NET "AN(0)" LOC = "P17"; // AN3
+#
+#//A,B--SW,RESET--PUSH BUTTON
+#NET "UpDown(1)" LOC = "A8"; // btn0 SUBE
+#NET "UpDown(0)" LOC = "C9"; // btn1 BAJA
+#NET "RESET" LOC = "D9"; // btn2 RST
+#
+#//CLK reloj 100MHz
+#NET "CLK" LOC = "V10"; #100MHz
+#
+
+#//C-LEDs salida a leds testigo
+#NET "" LOC = "U16"; // LD0
+##Asignación de terminales de la nexys3

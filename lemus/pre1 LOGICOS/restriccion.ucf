@@ -1,0 +1,39 @@
+NET"CLK" LOC=E7;
+
+NET"SW[7]" LOC=M1;
+NET"SW[6]" LOC=P2;
+NET"SW[5]" LOC=N5;
+NET"SW[4]" LOC=T7;
+
+NET"SW[3]" LOC=R9;
+NET"SW[2]" LOC=P4;
+NET"SW[1]" LOC=R7;
+NET"SW[0]" LOC=N9;
+
+NET"selOp[3]" LOC=L1;
+NET"selOp[2]" LOC=J1;
+NET"selOp[1]" LOC=J3;
+NET"selOp[0]" LOC=H3;
+
+NET"LED[3]" LOC=N1;
+NET"LED[2]" LOC=R2;
+NET"LED[1]" LOC=R5;
+NET"LED[0]" LOC=N8;
+
+NET "display[7]" LOC=p16;
+NET "display[6]" LOC=p15;
+NET "display[5]" LOC=t15;
+NET "display[4]" LOC=t14;
+NET "display[3]" LOC=t13;
+NET "display[2]" LOC=r16;
+NET "display[1]" LOC=r15;
+NET "display[0]" LOC=r14;
+
+NET "an[3]" LOC=E11;
+NET "an[2]" LOC=D11;
+NET "an[1]" LOC=C15;
+NET "an[0]" LOC=E15;
+#NET "an[3]" LOC=D16;
+#NET "an[2]" LOC=E16;
+#NET "an[1]" LOC=F16;
+#NET "an[0]" LOC=G16;

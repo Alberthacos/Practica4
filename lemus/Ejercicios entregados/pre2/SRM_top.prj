@@ -1,0 +1,6 @@
+vhdl work "U4 div.vhd"
+vhdl work "U3 disp.vhd"
+vhdl work "U2 shift add 3.vhd"
+vhdl work "U1 SRM.vhd"
+vhdl work "TecladoM.vhd"
+vhdl work "tld.vhd"
