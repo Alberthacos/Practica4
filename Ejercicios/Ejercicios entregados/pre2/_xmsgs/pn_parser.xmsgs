@@ -8,22 +8,22 @@
 <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
 
 <messages>
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/Ejercicios entregados/pre2/TecladoM.vhd&quot; into library work</arg>
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Albert/Documents/CircuitosLogicos/practica_4/Ejercicios/Ejercicios entregados/pre2/TecladoM.vhd&quot; into library work</arg>
 </msg>
 
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/Ejercicios entregados/pre2/U1 SRM.vhd&quot; into library work</arg>
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Albert/Documents/CircuitosLogicos/practica_4/Ejercicios/Ejercicios entregados/pre2/U1 SRM.vhd&quot; into library work</arg>
 </msg>
 
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/Ejercicios entregados/pre2/U2 shift add 3.vhd&quot; into library work</arg>
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Albert/Documents/CircuitosLogicos/practica_4/Ejercicios/Ejercicios entregados/pre2/U2 shift add 3.vhd&quot; into library work</arg>
 </msg>
 
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/Ejercicios entregados/pre2/U3 disp.vhd&quot; into library work</arg>
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Albert/Documents/CircuitosLogicos/practica_4/Ejercicios/Ejercicios entregados/pre2/U3 disp.vhd&quot; into library work</arg>
 </msg>
 
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/Ejercicios entregados/pre2/U4 div.vhd&quot; into library work</arg>
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Albert/Documents/CircuitosLogicos/practica_4/Ejercicios/Ejercicios entregados/pre2/U4 div.vhd&quot; into library work</arg>
 </msg>
 
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/Ejercicios entregados/pre2/tld.vhd&quot; into library work</arg>
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Albert/Documents/CircuitosLogicos/practica_4/Ejercicios/Ejercicios entregados/pre2/tld.vhd&quot; into library work</arg>
 </msg>
 
 </messages>

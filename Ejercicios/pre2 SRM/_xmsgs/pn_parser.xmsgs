@@ -8,19 +8,19 @@
 <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
 
 <messages>
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre1 (1)/SRM_TOP_LEVEL.vhd&quot; into library work</arg>
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Albert/Documents/CircuitosLogicos/practica_4/Ejercicios/pre2 SRM/SRM_TOP_LEVEL.vhd&quot; into library work</arg>
 </msg>
 
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre1 (1)/disp.vhd&quot; into library work</arg>
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Albert/Documents/CircuitosLogicos/practica_4/Ejercicios/pre2 SRM/disp.vhd&quot; into library work</arg>
 </msg>
 
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre1 (1)/divisor.vhd&quot; into library work</arg>
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Albert/Documents/CircuitosLogicos/practica_4/Ejercicios/pre2 SRM/divisor.vhd&quot; into library work</arg>
 </msg>
 
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre1 (1)/shift_add3.vhd&quot; into library work</arg>
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Albert/Documents/CircuitosLogicos/practica_4/Ejercicios/pre2 SRM/shift_add3.vhd&quot; into library work</arg>
 </msg>
 
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/pre1 (1)/smr.vhd&quot; into library work</arg>
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Albert/Documents/CircuitosLogicos/practica_4/Ejercicios/pre2 SRM/smr.vhd&quot; into library work</arg>
 </msg>
 
 </messages>

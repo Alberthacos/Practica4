@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2022-04-06T22:03:11</DateModified>
+  <DateModified>2022-04-07T21:13:40</DateModified>
   <ModuleName>SRM_top</ModuleName>
   <SummaryTimeStamp>2022-03-30T13:29:42</SummaryTimeStamp>
-  <SavedFilePath>C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/Ejercicios entregados/pre2/iseconfig/SRM_top.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>C:/Users/Albert/Documents/CircuitosLogicos/practica_4/lemus/Ejercicios entregados/pre2\</ImplementationReportsDirectory>
+  <SavedFilePath>C:/Users/Albert/Documents/CircuitosLogicos/practica_4/Ejercicios/Ejercicios entregados/pre2/iseconfig/SRM_top.xreport</SavedFilePath>
+  <ImplementationReportsDirectory>C:/Users/Albert/Documents/CircuitosLogicos/practica_4/Ejercicios/Ejercicios entregados/pre2\</ImplementationReportsDirectory>
   <DateInitialized>2022-03-27T13:19:53</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>
